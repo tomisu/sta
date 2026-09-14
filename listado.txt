@@ -6,9 +6,9 @@ E)
 F)
 G)
 H)
-I)https://mirencuor.github.io/practica1_STA/
-J)https://fentom31.github.io/jurri10/
-K)
+I) https://mirencuor.github.io/practica1_STA/
+J) https://fentom31.github.io/jurri10/
+K) https://github.com/nat13373/PRACTICA1_github.git
 L)https://github.com/laurabengoechea2010/practicas-laurajune.git
 M)https://ahechu.github.io/P1.2_AnaAinhoa/
 N)https://github.com/inigoAZ/prac1-sta-grupo2
