@@ -1,5 +1,5 @@
-A) 
-B) 
+A) https://02tcardenas.github.io/STA_PRACTICA_1/
+B) https://github.com/manuelmanass/STA_grupo1
 C)
 D)
 E)
@@ -7,7 +7,7 @@ F)
 G)
 H)
 I)
-J) 
+J) https://fentom31.github.io/jurri10/
 K) https://github.com/nat13373/PRACTICA1_github.git
 L)
 M)
