@@ -4,7 +4,7 @@ C)
 D)
 E)
 F)
-G)
+G) https://inigoyaniz.github.io/p1-7/
 H)
 I) https://mirencuor.github.io/practica1_STA/
 J) https://fentom31.github.io/jurri10/
