@@ -1,13 +1,13 @@
-A)https://github.com/02Tcardenas/STA_PRACTICA_1.git 
-B)
+A) https://github.com/02Tcardenas/STA_PRACTICA_1.git 
+B) https://github.com/manuelmanass/STA_grupo1
 C)
 D)
 E)
 F)
 G)
 H)
-I)
-J)
+I)https://mirencuor.github.io/practica1_STA/
+J)https://fentom31.github.io/jurri10/
 K)
 L)
 M)
